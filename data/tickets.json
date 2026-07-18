@@ -1,1 +1,32 @@
-{}
+{
+  "TKT-MRQMQU4Q-248301": {
+    "id": "TKT-MRQMQU4Q-248301",
+    "ticketId": "TKT-MRQMQU4Q-248301",
+    "status": "open",
+    "createdBy": {
+      "discordId": "758054913044643980",
+      "username": "avriill.",
+      "displayName": "Avril",
+      "avatar": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp?size=256",
+      "banner": null,
+      "locale": null,
+      "nickname": null,
+      "accountCreatedAt": "2020-09-22T19:59:35.249Z"
+    },
+    "guild": {
+      "id": "1141311082091249814",
+      "name": "BlueStar"
+    },
+    "roles": [],
+    "channel": {
+      "id": null,
+      "name": null,
+      "url": null
+    },
+    "creationTime": "2026-07-18T17:17:37.418Z",
+    "closedAt": null,
+    "rejectionReason": null,
+    "customerId": "df28ab3f-ea4d-4c0c-9e3d-151972ba25bb",
+    "handledBy": null
+  }
+}
