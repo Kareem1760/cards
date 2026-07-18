@@ -118,5 +118,29 @@
     "createdAt": "2026-07-18T17:53:36.470Z",
     "updatedAt": "2026-07-18T17:53:36.576Z",
     "customerId": "2705d02b-c329-431d-872e-8a822cc35cc5"
+  },
+  "18c476f1-0673-4c8c-9741-754466b9abb3": {
+    "id": "18c476f1-0673-4c8c-9741-754466b9abb3",
+    "discordId": "1324264024824610931",
+    "username": "jenral777",
+    "displayName": "Drax",
+    "avatar": "https://cdn.discordapp.com/avatars/1324264024824610931/2e3ab48ee941091bc5b6658aeaeaea5a.webp?size=1024",
+    "banner": null,
+    "locale": null,
+    "nickname": null,
+    "guildId": null,
+    "roles": [],
+    "accountCreatedAt": null,
+    "joinedAt": null,
+    "status": "pending",
+    "ticketId": null,
+    "channelId": null,
+    "webhookUrl": null,
+    "licenseId": "044063f7-ef8e-40e4-8ec0-8b497b6c836a",
+    "subscriptionId": null,
+    "notes": [],
+    "createdAt": "2026-07-18T17:55:42.466Z",
+    "updatedAt": "2026-07-18T17:55:42.575Z",
+    "customerId": "9a5a5dac-63b5-49c8-b1a9-5adc0b41982b"
   }
 }
