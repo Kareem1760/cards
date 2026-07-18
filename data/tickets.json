@@ -1,8 +1,8 @@
 {
-  "TKT-MRQMQU4Q-248301": {
-    "id": "TKT-MRQMQU4Q-248301",
-    "ticketId": "TKT-MRQMQU4Q-248301",
-    "status": "open",
+  "TKT-MRQNGDD5-351AF2": {
+    "id": "TKT-MRQNGDD5-351AF2",
+    "ticketId": "TKT-MRQNGDD5-351AF2",
+    "status": "closed",
     "createdBy": {
       "discordId": "758054913044643980",
       "username": "avriill.",
@@ -19,14 +19,16 @@
     },
     "roles": [],
     "channel": {
-      "id": null,
-      "name": null,
-      "url": null
+      "id": "1528093364669644861",
+      "name": "ticket-avriill-351af2",
+      "url": "https://discord.com/channels/1141311082091249814/1528093364669644861"
     },
-    "creationTime": "2026-07-18T17:17:37.418Z",
-    "closedAt": null,
+    "creationTime": "2026-07-18T17:37:28.746Z",
+    "closedAt": "2026-07-18T17:38:25.183Z",
     "rejectionReason": null,
-    "customerId": "df28ab3f-ea4d-4c0c-9e3d-151972ba25bb",
-    "handledBy": null
+    "customerId": "b751e4c9-1f41-47f6-a30e-ded6cf882489",
+    "handledBy": null,
+    "closedBy": "1139048295210176532",
+    "closeReason": "Closed by user"
   }
 }
