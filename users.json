@@ -12,5 +12,23 @@
         "status": "approved",
         "customer_channel_id": "1528153696691552448",
         "license_message_id": "1528153701833900153"
+    },
+    "wispbyte": {
+        "user_name": "v",
+        "discord_user": "wispbyte",
+        "discord_user_id": "wispbyte",
+        "user_img": "https:\/\/wispbyte.com\/client\/servers\/ae46e1b3\/console",
+        "discord_webhook_url": "https:\/\/wispbyte.com\/client\/servers\/ae46e1b3\/console",
+        "mac_address": "https:\/\/wispbyte.com\/client\/servers\/ae46e1b3\/console",
+        "sub_plan": "Premium",
+        "sub-type": "Card limit",
+        "end_date": "",
+        "status": "",
+        "customer_channel_id": "",
+        "license_message_id": "",
+        "trial_expires_at": "",
+        "trial_status": "",
+        "trial_end_deadline": "",
+        "trial_responded": ""
     }
 }
