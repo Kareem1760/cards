@@ -1,15 +1,12 @@
 {
-  "1324264024824610931": {
-    "user_name": "Drax",
-    "discord_user": "jenral777",
-    "discord_user_id": "1324264024824610931",
-    "user_img": "https://cdn.discordapp.com/avatars/1324264024824610931/2e3ab48ee941091bc5b6658aeaeaea5a.webp?size=1024",
-    "discord_webhook_url": "https://discord.com/api/webhooks/1332674306756579429/VZ9WGxqOhpjTh9OZbG-FxOpHakyOV3yoQa8dctDPCT2gLP9091wnJTKiGuyOH_5dbbKv",
-    "mac_address": "QxnHmB9x6e1VOYm5hyozJ3==",
-    "sub_plan": "Premium",
-    "end_date": "2025-10-12 00:11:12",
-    "customerId": "18c476f1-0673-4c8c-9741-754466b9abb3",
-    "registeredAt": "2026-07-18T17:55:42.464Z",
-    "updatedAt": "2026-07-18T17:55:42.483Z"
+  "758054913044643980": {
+    "discordId": "758054913044643980",
+    "username": "avriill.",
+    "displayName": "Avril",
+    "avatar": null,
+    "customerId": "ba6b8cdb-8265-4047-aa7a-8ae80c349a44",
+    "roles": [],
+    "lastSeen": "2026-07-18T18:04:22.840Z",
+    "updatedAt": "2026-07-18T18:04:22.840Z"
   }
 }
