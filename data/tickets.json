@@ -30,5 +30,35 @@
     "handledBy": null,
     "closedBy": "1139048295210176532",
     "closeReason": "Closed by user"
+  },
+  "TKT-MRQNOXTG-E5EDF3": {
+    "id": "TKT-MRQNOXTG-E5EDF3",
+    "ticketId": "TKT-MRQNOXTG-E5EDF3",
+    "status": "open",
+    "createdBy": {
+      "discordId": "758054913044643980",
+      "username": "avriill.",
+      "displayName": "Avril",
+      "avatar": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp?size=256",
+      "banner": null,
+      "locale": null,
+      "nickname": null,
+      "accountCreatedAt": "2020-09-22T19:59:35.249Z"
+    },
+    "guild": {
+      "id": "1141311082091249814",
+      "name": "BlueStar"
+    },
+    "roles": [],
+    "channel": {
+      "id": "1528095041350926509",
+      "name": "ticket-avriill-e5edf3",
+      "url": "https://discord.com/channels/1141311082091249814/1528095041350926509"
+    },
+    "creationTime": "2026-07-18T17:44:08.501Z",
+    "closedAt": null,
+    "rejectionReason": null,
+    "customerId": "48b4afe7-49f9-41f5-ae97-7cb865887bea",
+    "handledBy": null
   }
 }
