@@ -1,1 +1,15 @@
-{}
+{
+  "ef11731c-8cad-456e-bd75-4619209fb525": {
+    "id": "ef11731c-8cad-456e-bd75-4619209fb525",
+    "customerId": null,
+    "discordId": "849951296257261610",
+    "plan": "ENTERPRISE",
+    "status": "active",
+    "creationDate": "2026-07-18T18:09:35.856Z",
+    "expirationDate": "2027-07-18T18:09:35.856Z",
+    "autoRenew": false,
+    "renewals": 0,
+    "createdBy": "758054913044643980",
+    "lastUpdated": "2026-07-18T18:09:35.856Z"
+  }
+}
