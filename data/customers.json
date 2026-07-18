@@ -21,5 +21,28 @@
     "notes": [],
     "createdAt": "2026-07-18T17:17:37.438Z",
     "updatedAt": "2026-07-18T17:17:37.438Z"
+  },
+  "b751e4c9-1f41-47f6-a30e-ded6cf882489": {
+    "id": "b751e4c9-1f41-47f6-a30e-ded6cf882489",
+    "discordId": "758054913044643980",
+    "username": "avriill.",
+    "displayName": "Avril",
+    "avatar": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp?size=256",
+    "banner": null,
+    "locale": null,
+    "nickname": null,
+    "guildId": "1141311082091249814",
+    "roles": [],
+    "accountCreatedAt": "2020-09-22T19:59:35.249Z",
+    "joinedAt": null,
+    "status": "pending",
+    "ticketId": "TKT-MRQNGDD5-351AF2",
+    "channelId": null,
+    "webhookUrl": null,
+    "licenseId": null,
+    "subscriptionId": null,
+    "notes": [],
+    "createdAt": "2026-07-18T17:37:28.760Z",
+    "updatedAt": "2026-07-18T17:37:28.760Z"
   }
 }
