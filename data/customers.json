@@ -1,1 +1,25 @@
-{}
+{
+  "b1fddd67-56f6-4b10-8f5c-1165e5294313": {
+    "id": "b1fddd67-56f6-4b10-8f5c-1165e5294313",
+    "discordId": "758054913044643980",
+    "username": "avriill.",
+    "displayName": "Avril",
+    "avatar": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp?size=256",
+    "banner": null,
+    "locale": null,
+    "nickname": null,
+    "guildId": "1141311082091249814",
+    "roles": [],
+    "accountCreatedAt": "2020-09-22T19:59:35.249Z",
+    "joinedAt": null,
+    "status": "pending",
+    "ticketId": "TKT-MRQMQU4N-E538E6",
+    "channelId": null,
+    "webhookUrl": null,
+    "licenseId": null,
+    "subscriptionId": null,
+    "notes": [],
+    "createdAt": "2026-07-18T17:17:37.438Z",
+    "updatedAt": "2026-07-18T17:17:37.438Z"
+  }
+}
