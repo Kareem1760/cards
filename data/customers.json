@@ -58,14 +58,16 @@
     "roles": [],
     "accountCreatedAt": "2020-09-22T19:59:35.249Z",
     "joinedAt": null,
-    "status": "pending",
+    "status": "approved",
     "ticketId": "TKT-MRQNOXTG-E5EDF3",
-    "channelId": null,
+    "channelId": "1528095471711686656",
     "webhookUrl": null,
-    "licenseId": null,
+    "licenseId": "82fff204-4480-4e1c-9916-6bb2b246002d",
     "subscriptionId": null,
     "notes": [],
     "createdAt": "2026-07-18T17:44:08.516Z",
-    "updatedAt": "2026-07-18T17:44:08.516Z"
+    "updatedAt": "2026-07-18T17:45:51.594Z",
+    "approvedAt": "2026-07-18T17:45:51.543Z",
+    "approvedBy": "758054913044643980"
   }
 }
