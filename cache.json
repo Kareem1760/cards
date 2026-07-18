@@ -1,0 +1,28 @@
+{
+  "statistics": {
+    "generatedAt": "2026-07-18T16:03:56.765Z",
+    "customers": {
+      "total": 0,
+      "approved": 0
+    },
+    "licenses": {
+      "total": 0,
+      "active": 0,
+      "expired": 0
+    },
+    "subscriptions": {
+      "total": 0,
+      "active": 0
+    },
+    "tickets": {
+      "total": 0,
+      "open": 0
+    },
+    "hwids": {
+      "total": 0
+    },
+    "webhooks": {
+      "total": 0
+    }
+  }
+}

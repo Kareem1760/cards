@@ -1,0 +1,165 @@
+{
+  "2026-07-18T16:02:33.541Z-clno1t": {
+    "ts": "2026-07-18T16:02:33.541Z",
+    "level": "info",
+    "category": "scheduler",
+    "message": "Running scheduled tasks",
+    "meta": null
+  },
+  "2026-07-18T16:02:33.568Z-cw1iqc": {
+    "ts": "2026-07-18T16:02:33.568Z",
+    "level": "info",
+    "category": "scheduler",
+    "message": "Rotated backups for 15 files",
+    "meta": null
+  },
+  "2026-07-18T16:02:34.725Z-i9k9a4": {
+    "ts": "2026-07-18T16:02:34.725Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced users.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:35.620Z-8xke0s": {
+    "ts": "2026-07-18T16:02:35.620Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced licenses.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:36.502Z-y23xaq": {
+    "ts": "2026-07-18T16:02:36.502Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced subscriptions.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:37.407Z-xlfg31": {
+    "ts": "2026-07-18T16:02:37.407Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced customers.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:38.340Z-hg1ji4": {
+    "ts": "2026-07-18T16:02:38.340Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced tickets.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:39.249Z-uhltuy": {
+    "ts": "2026-07-18T16:02:39.249Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced users.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:40.169Z-8nhhfd": {
+    "ts": "2026-07-18T16:02:40.169Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced licenses.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:41.053Z-6onqjb": {
+    "ts": "2026-07-18T16:02:41.053Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced subscriptions.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:41.976Z-dg6k7b": {
+    "ts": "2026-07-18T16:02:41.976Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced customers.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:02:42.910Z-kyqr7i": {
+    "ts": "2026-07-18T16:02:42.910Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced tickets.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:03:06.318Z-kvj6nt": {
+    "ts": "2026-07-18T16:03:06.318Z",
+    "level": "info",
+    "category": "api",
+    "message": "REST API routes registered",
+    "meta": null
+  },
+  "2026-07-18T16:03:06.565Z-w4ao6r": {
+    "ts": "2026-07-18T16:03:06.565Z",
+    "level": "info",
+    "category": "scheduler",
+    "message": "Rotated backups for 15 files",
+    "meta": null
+  },
+  "2026-07-18T16:03:07.681Z-zr1liw": {
+    "ts": "2026-07-18T16:03:07.681Z",
+    "level": "error",
+    "category": "discord",
+    "message": "Expected a string primitive",
+    "meta": null
+  },
+  "2026-07-18T16:03:08.587Z-yd7rb4": {
+    "ts": "2026-07-18T16:03:08.587Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced licenses.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:03:56.705Z-c66ak9": {
+    "ts": "2026-07-18T16:03:56.705Z",
+    "level": "info",
+    "category": "system",
+    "message": "Starting License Management Platform...",
+    "meta": null
+  },
+  "2026-07-18T16:03:57.016Z-4w6325": {
+    "ts": "2026-07-18T16:03:57.016Z",
+    "level": "info",
+    "category": "scheduler",
+    "message": "Rotated backups for 15 files",
+    "meta": null
+  },
+  "2026-07-18T16:03:57.995Z-5vs8l9": {
+    "ts": "2026-07-18T16:03:57.995Z",
+    "level": "info",
+    "category": "discord",
+    "message": "Bot login initiated",
+    "meta": null
+  },
+  "2026-07-18T16:03:58.031Z-nrsq24": {
+    "ts": "2026-07-18T16:03:58.031Z",
+    "level": "error",
+    "category": "discord",
+    "message": "Ready handler error: Expected a string primitive",
+    "meta": {
+      "stack": "Error: Expected a string primitive\n    at _StringValidator.handle (G:\\limit\\New folder\\new sys\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:2615:70)\n    at _StringValidator.parse (G:\\limit\\New folder\\new sys\\node_modules\\@sapphire\\shapeshift\\dist\\cjs\\index.cjs:972:90)\n    at validateDescription (G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:3502:25)\n    at validateRequiredParameters (G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:3516:3)\n    at SlashCommandUserOption.runRequiredValidations (G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:3824:5)\n    at SlashCommandUserOption.toJSON (G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:4243:10)\n    at G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:4423:52\n    at Array.map (<anonymous>)\n    at MixedClass.toJSON (G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:4423:29)\n    at G:\\limit\\New folder\\new sys\\node_modules\\@discordjs\\builders\\dist\\index.js:3791:52"
+    }
+  },
+  "2026-07-18T16:03:58.127Z-yyjqhb": {
+    "ts": "2026-07-18T16:03:58.127Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced users.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:03:59.064Z-5mr9o6": {
+    "ts": "2026-07-18T16:03:59.064Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced licenses.json to GitHub",
+    "meta": null
+  },
+  "2026-07-18T16:03:59.981Z-l8qlhv": {
+    "ts": "2026-07-18T16:03:59.981Z",
+    "level": "info",
+    "category": "github",
+    "message": "Synced subscriptions.json to GitHub",
+    "meta": null
+  }
+}
