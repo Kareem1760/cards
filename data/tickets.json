@@ -67,7 +67,7 @@
   "TKT-MRQNU522-CE8C87": {
     "id": "TKT-MRQNU522-CE8C87",
     "ticketId": "TKT-MRQNU522-CE8C87",
-    "status": "approved",
+    "status": "closed",
     "createdBy": {
       "discordId": "1139048295210176532",
       "username": "masterxman0",
@@ -89,12 +89,14 @@
       "url": "https://discord.com/channels/1141311082091249814/1528096059346391242"
     },
     "creationTime": "2026-07-18T17:48:11.162Z",
-    "closedAt": null,
+    "closedAt": "2026-07-18T17:52:41.025Z",
     "rejectionReason": null,
     "customerId": "37f30acb-1c7d-41c8-ad1d-93d8d93a714e",
     "handledBy": "758054913044643980",
     "approvedAt": "2026-07-18T17:48:58.623Z",
     "customerChannelId": "1528096256289800323",
-    "licenseId": "608b317e-1b98-432d-ad30-fa9c13010fc0"
+    "licenseId": "608b317e-1b98-432d-ad30-fa9c13010fc0",
+    "closedBy": "1139048295210176532",
+    "closeReason": "Closed by user"
   }
 }
