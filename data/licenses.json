@@ -15,5 +15,22 @@
     "notes": "",
     "createdBy": "758054913044643980",
     "lastUpdated": "2026-07-18T17:45:51.580Z"
+  },
+  "608b317e-1b98-432d-ad30-fa9c13010fc0": {
+    "id": "608b317e-1b98-432d-ad30-fa9c13010fc0",
+    "licenseKey": "enc:fee2aad1a7d8a313a80816d9242c742e:2042b0d317a94ba6cc3aa763d2f6ac3f3cda041e90b0984af9ff9a19c3a56b9fe88b0d16169a3e35881dd08a58cdbc96",
+    "plainKeyPreview": "B18D74...",
+    "customerId": "37f30acb-1c7d-41c8-ad1d-93d8d93a714e",
+    "discordId": "1139048295210176532",
+    "plan": "BASIC",
+    "type": "MONTHLY",
+    "status": "active",
+    "creationDate": "2026-07-18T17:48:58.637Z",
+    "expirationDate": "2026-08-17T17:48:58.637Z",
+    "hwidSlots": 1,
+    "boundHwids": [],
+    "notes": "",
+    "createdBy": "758054913044643980",
+    "lastUpdated": "2026-07-18T17:48:58.637Z"
   }
 }
