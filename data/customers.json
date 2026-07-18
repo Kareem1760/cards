@@ -69,5 +69,30 @@
     "updatedAt": "2026-07-18T17:45:51.594Z",
     "approvedAt": "2026-07-18T17:45:51.543Z",
     "approvedBy": "758054913044643980"
+  },
+  "37f30acb-1c7d-41c8-ad1d-93d8d93a714e": {
+    "id": "37f30acb-1c7d-41c8-ad1d-93d8d93a714e",
+    "discordId": "1139048295210176532",
+    "username": "masterxman0",
+    "displayName": "Mask",
+    "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+    "banner": null,
+    "locale": null,
+    "nickname": null,
+    "guildId": "1141311082091249814",
+    "roles": [],
+    "accountCreatedAt": "2023-08-10T04:11:16.072Z",
+    "joinedAt": null,
+    "status": "approved",
+    "ticketId": "TKT-MRQNU522-CE8C87",
+    "channelId": "1528096256289800323",
+    "webhookUrl": null,
+    "licenseId": "608b317e-1b98-432d-ad30-fa9c13010fc0",
+    "subscriptionId": null,
+    "notes": [],
+    "createdAt": "2026-07-18T17:48:11.176Z",
+    "updatedAt": "2026-07-18T17:48:58.653Z",
+    "approvedAt": "2026-07-18T17:48:58.598Z",
+    "approvedBy": "758054913044643980"
   }
 }
