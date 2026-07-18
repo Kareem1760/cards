@@ -1,1 +1,19 @@
-{}
+{
+  "82fff204-4480-4e1c-9916-6bb2b246002d": {
+    "id": "82fff204-4480-4e1c-9916-6bb2b246002d",
+    "licenseKey": "enc:6b309d0b406d11b8e4badb25e17446a3:81e606cf63a5ea3736583b9cf2b06e836c56bc5bd8ddb55a4f359d63af88216926032db70ecdcaa906b47a99e68bcd64",
+    "plainKeyPreview": "E602AF...",
+    "customerId": "48b4afe7-49f9-41f5-ae97-7cb865887bea",
+    "discordId": "758054913044643980",
+    "plan": "BASIC",
+    "type": "MONTHLY",
+    "status": "active",
+    "creationDate": "2026-07-18T17:45:51.580Z",
+    "expirationDate": "2026-08-17T17:45:51.580Z",
+    "hwidSlots": 1,
+    "boundHwids": [],
+    "notes": "",
+    "createdBy": "758054913044643980",
+    "lastUpdated": "2026-07-18T17:45:51.580Z"
+  }
+}
