@@ -63,5 +63,38 @@
     "approvedAt": "2026-07-18T17:45:51.567Z",
     "customerChannelId": "1528095471711686656",
     "licenseId": "82fff204-4480-4e1c-9916-6bb2b246002d"
+  },
+  "TKT-MRQNU522-CE8C87": {
+    "id": "TKT-MRQNU522-CE8C87",
+    "ticketId": "TKT-MRQNU522-CE8C87",
+    "status": "approved",
+    "createdBy": {
+      "discordId": "1139048295210176532",
+      "username": "masterxman0",
+      "displayName": "Mask",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "banner": null,
+      "locale": null,
+      "nickname": null,
+      "accountCreatedAt": "2023-08-10T04:11:16.072Z"
+    },
+    "guild": {
+      "id": "1141311082091249814",
+      "name": "BlueStar"
+    },
+    "roles": [],
+    "channel": {
+      "id": "1528096059346391242",
+      "name": "ticket-masterxman0-ce8c87",
+      "url": "https://discord.com/channels/1141311082091249814/1528096059346391242"
+    },
+    "creationTime": "2026-07-18T17:48:11.162Z",
+    "closedAt": null,
+    "rejectionReason": null,
+    "customerId": "37f30acb-1c7d-41c8-ad1d-93d8d93a714e",
+    "handledBy": "758054913044643980",
+    "approvedAt": "2026-07-18T17:48:58.623Z",
+    "customerChannelId": "1528096256289800323",
+    "licenseId": "608b317e-1b98-432d-ad30-fa9c13010fc0"
   }
 }
