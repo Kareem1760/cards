@@ -32,5 +32,22 @@
     "notes": "",
     "createdBy": "758054913044643980",
     "lastUpdated": "2026-07-18T17:48:58.637Z"
+  },
+  "bc8a9d61-7458-4232-98bd-0510341457b9": {
+    "id": "bc8a9d61-7458-4232-98bd-0510341457b9",
+    "licenseKey": "enc:54fedf7dc54cd94fad9ead1de8b6a13e:8d1f320fc5fd4ad8141b29777fbc3f393b7ff2225d26acf5b7d5d33693cb78b1ece496e4c5c512cad0c6e16d9516a0fc",
+    "plainKeyPreview": "349A31...",
+    "customerId": "db2af5e1-3bab-4ba5-bf78-be660964027e",
+    "discordId": "1324264024824610931",
+    "plan": "BASIC",
+    "type": "MONTHLY",
+    "status": "expired",
+    "creationDate": "2026-07-18T17:53:36.517Z",
+    "expirationDate": "2025-10-11T21:11:12.000Z",
+    "hwidSlots": 1,
+    "boundHwids": [],
+    "notes": "Registered via launcher as Premium",
+    "createdBy": "launcher",
+    "lastUpdated": "2026-07-18T17:55:11.787Z"
   }
 }
