@@ -34,7 +34,7 @@
   "TKT-MRQNOXTG-E5EDF3": {
     "id": "TKT-MRQNOXTG-E5EDF3",
     "ticketId": "TKT-MRQNOXTG-E5EDF3",
-    "status": "open",
+    "status": "approved",
     "createdBy": {
       "discordId": "758054913044643980",
       "username": "avriill.",
@@ -59,6 +59,9 @@
     "closedAt": null,
     "rejectionReason": null,
     "customerId": "48b4afe7-49f9-41f5-ae97-7cb865887bea",
-    "handledBy": null
+    "handledBy": "758054913044643980",
+    "approvedAt": "2026-07-18T17:45:51.567Z",
+    "customerChannelId": "1528095471711686656",
+    "licenseId": "82fff204-4480-4e1c-9916-6bb2b246002d"
   }
 }
