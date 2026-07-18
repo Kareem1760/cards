@@ -1,32 +1,15 @@
 {
-  "758054913044643980": {
-    "discordId": "758054913044643980",
-    "username": "avriill.",
-    "displayName": "Avril",
-    "avatar": null,
-    "customerId": "48b4afe7-49f9-41f5-ae97-7cb865887bea",
-    "roles": [],
-    "lastSeen": "2026-07-18T17:44:08.531Z",
-    "updatedAt": "2026-07-18T17:44:08.531Z"
-  },
-  "1139048295210176532": {
-    "discordId": "1139048295210176532",
-    "username": "masterxman0",
-    "displayName": "Mask",
-    "avatar": null,
-    "customerId": "37f30acb-1c7d-41c8-ad1d-93d8d93a714e",
-    "roles": [],
-    "lastSeen": "2026-07-18T17:48:11.190Z",
-    "updatedAt": "2026-07-18T17:48:11.190Z"
-  },
   "1324264024824610931": {
-    "discordId": "1324264024824610931",
-    "username": "jenral777",
-    "displayName": "Drax",
-    "avatar": null,
-    "customerId": "db2af5e1-3bab-4ba5-bf78-be660964027e",
-    "roles": [],
-    "lastSeen": "2026-07-18T17:53:36.486Z",
-    "updatedAt": "2026-07-18T17:53:36.486Z"
+    "user_name": "Drax",
+    "discord_user": "jenral777",
+    "discord_user_id": "1324264024824610931",
+    "user_img": "https://cdn.discordapp.com/avatars/1324264024824610931/2e3ab48ee941091bc5b6658aeaeaea5a.webp?size=1024",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1332674306756579429/VZ9WGxqOhpjTh9OZbG-FxOpHakyOV3yoQa8dctDPCT2gLP9091wnJTKiGuyOH_5dbbKv",
+    "mac_address": "QxnHmB9x6e1VOYm5hyozJ3==",
+    "sub_plan": "Premium",
+    "end_date": "2025-10-12 00:11:12",
+    "customerId": "18c476f1-0673-4c8c-9741-754466b9abb3",
+    "registeredAt": "2026-07-18T17:55:42.464Z",
+    "updatedAt": "2026-07-18T17:55:42.483Z"
   }
 }
