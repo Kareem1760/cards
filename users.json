@@ -8,10 +8,14 @@
         "mac_address": "+a1xifR53rpfLJrT8gIb4L2f+zRGaS1ZuUdUR\/RoCTQ7md6KcFxM5KH98D+c9HUhuUJzhVaGU97BiFKiv8eDlhHwXe5kSka4YB6LWs00Vm+Vhbj6FHT+ok21zpDSEywbLXLq\/7Dw8ZTZ\/Vcvk85hroeBKFBPyvtchuNB1wtLzew=",
         "sub_plan": "Lifetime",
         "sub-type": "ultimate",
-        "end_date": "2030-01-31 00:00:00",
+        "end_date": "2023-01-31T00:00",
         "status": "approved",
         "customer_channel_id": "1528153696691552448",
-        "license_message_id": "1528153701833900153"
+        "license_message_id": "1528153701833900153",
+        "trial_expires_at": "",
+        "trial_status": "",
+        "trial_end_deadline": "",
+        "trial_responded": ""
     },
     "wispbyte": {
         "user_name": "v",
