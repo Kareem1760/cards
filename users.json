@@ -26,5 +26,22 @@
     "status": "approved",
     "customer_channel_id": "1528411939099644075",
     "license_message_id": "1528411943772229704"
+  },
+  "644499549649502209": {
+    "user_name": "Ahmed Algendy(｡☬０☬｡)",
+    "discord_user": "ahmedalgendy",
+    "discord_user_id": "644499549649502209",
+    "user_img": "https://cdn.discordapp.com/avatars/644499549649502209/be8ae126fd0298efd56c131b5e0ac7bc.webp",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1528886520470175866/9ZcVPfzA4ipRAADvz4mShfr-YBCDeyHCy50rICgB7uMBRSXEnKi3vmluPS3-Y6bOA816",
+    "mac_address": "QxnHmB9x6e1VOYm5hyozJ3+ioXtR5aQBwMETFOjBb8v12LFHq1/Zhn8Vh0Tm9ORbbSAs6TQ+z1W8lTy/H6j675xz1KMk86BeGLyl7ZO6fTveeOQDOT375rmFRXywhBev9Ooda/r5ytiPez4dwV7r5pOrnro3QRAvp86wWGJx6Dxo1HsMWGTmoKnqGKBiIQGZqnduGu6WVGk41F93GnKB3g==",
+    "sub_plan": "Free Trial",
+    "sub-type": "Card Bug",
+    "end_date": "2026-07-22 00:00:00",
+    "status": "approved",
+    "trial_expires_at": "2026-07-21T22:09:10.285Z",
+    "trial_status": "active",
+    "customer_channel_id": "1528886517173321859",
+    "trial_end_deadline": "2026-07-22T22:09:10.285Z",
+    "license_message_id": "1528886523762708481"
   }
 }
