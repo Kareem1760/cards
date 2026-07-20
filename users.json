@@ -4,16 +4,16 @@
     "discord_user": "avriill.",
     "discord_user_id": "758054913044643980",
     "user_img": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp",
-    "discord_webhook_url": "https://discord.com/api/webhooks/1528912361602158654/rl5Zn1sz_FVuqu2oqRy16MW05KGFSk8fR5WUNP5z31QqBmPWzv9j67L5yrBHjBUYbhuP",
-    "mac_address": "45",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1528913023602000026/-x27klar1AKcVL2hqvLoqQicdbs44ALE0k97IXxwDdXNooOBPxQ_L4ObS0WiOiN885iF",
+    "mac_address": "قث",
     "sub_plan": "Free Trial",
-    "sub-type": "Card limit",
+    "sub-type": "Arena Card Bug",
     "end_date": "2026-07-22 00:00:00",
-    "status": "closed",
-    "trial_expires_at": "2026-07-21T23:51:51.134Z",
+    "status": "approved",
+    "trial_expires_at": "2026-07-21T23:54:28.840Z",
     "trial_status": "active",
-    "customer_channel_id": "1528912359471452191",
-    "trial_end_deadline": "2026-07-22T23:51:51.134Z",
-    "license_message_id": "1528912363195994236"
+    "customer_channel_id": "1528913020393226330",
+    "trial_end_deadline": "2026-07-22T23:54:28.840Z",
+    "license_message_id": "1528913026571304972"
   }
 }
