@@ -1,20 +1,16 @@
 {
-    "758054913044643980": {
-        "user_name": "Avril",
-        "discord_user": "avriill.",
-        "discord_user_id": "758054913044643980",
-        "user_img": "https:\/\/cdn.discordapp.com\/avatars\/758054913044643980\/c48ad952781a419ff159b75feac07fd1.webp",
-        "discord_webhook_url": "https:\/\/discord.com\/api\/webhooks\/1528897577117028543\/Mb9jctRC1UjVblIqhojCdB_GCFSpaD2_yU4BEDP8fIXc0M_Hs3skWBUOaZMJIWhDCKu3",
-        "mac_address": "+a1xifR53rpfLJrT8gIb4L2f+zRGaS1ZuUdUR\/RoCTQ7md6KcFxM5KH98D+c9HUhuUJzhVaGU97BiFKiv8eDluPXdx5TqMVD56XJoMM3YJnkA+57O5Ac6\/JnQA1XhieIMTxknC8swYRdI3Vwm0bSpA==",
-        "sub_plan": "Free Trial",
-        "sub-type": "Arena Card Bug",
-        "end_date": "2040-01-01T00:00",
-        "status": "approved",
-        "customer_channel_id": "1528897574759567402",
-        "license_message_id": "1528897578501013516",
-        "trial_expires_at": "",
-        "trial_status": "",
-        "trial_end_deadline": "",
-        "trial_responded": ""
-    }
+  "758054913044643980": {
+    "user_name": "Avril",
+    "discord_user": "avriill.",
+    "discord_user_id": "758054913044643980",
+    "user_img": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1528905030579654676/hXwLfJ48L3vKE6AWUTPo3SFY-dqQjP5hNKv1QkSIx2xKgwHMIpwlh3JICufRy6BbjPbe",
+    "mac_address": "213",
+    "sub_plan": "Lifetime",
+    "sub-type": "ultimate",
+    "end_date": "2030-11-01 00:00:00",
+    "status": "approved",
+    "customer_channel_id": "1528905028457332748",
+    "license_message_id": "1528905031875563571"
+  }
 }
