@@ -1,20 +1,16 @@
 {
-    "758054913044643980": {
-        "user_name": "Avril",
-        "discord_user": "avriill.",
-        "discord_user_id": "758054913044643980",
-        "user_img": "https:\/\/cdn.discordapp.com\/avatars\/758054913044643980\/c48ad952781a419ff159b75feac07fd1.webp",
-        "discord_webhook_url": "https:\/\/discord.com\/api\/webhooks\/1528914912531976242\/SheiqcqwGu3LfHxmtaApHSA1SvFKFIb3wj90-88If__hLcBvtCk1dmDvEptrKykqgywA",
-        "mac_address": "+a1xifR53rpfLJrT8gIb4L2f+zRGaS1ZuUdUR\/RoCTQ7md6KcFxM5KH98D+c9HUhuUJzhVaGU97BiFKiv8eDluPXdx5TqMVD56XJoMM3YJnkA+57O5Ac6\/JnQA1XhieIMTxknC8swYRdI3Vwm0bSpA==",
-        "sub_plan": "Lifetime",
-        "sub-type": "",
-        "end_date": "2100-12-31T00:00",
-        "status": "approved",
-        "customer_channel_id": "1528914910233366649",
-        "license_message_id": "1528914914813673565",
-        "trial_expires_at": "",
-        "trial_status": "",
-        "trial_end_deadline": "",
-        "trial_responded": ""
-    }
+  "758054913044643980": {
+    "user_name": "Avril",
+    "discord_user": "avriill.",
+    "discord_user_id": "758054913044643980",
+    "user_img": "https://cdn.discordapp.com/avatars/758054913044643980/c48ad952781a419ff159b75feac07fd1.webp",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1528914912531976242/SheiqcqwGu3LfHxmtaApHSA1SvFKFIb3wj90-88If__hLcBvtCk1dmDvEptrKykqgywA",
+    "mac_address": "+a1xifR53rpfLJrT8gIb4L2f+zRGaS1ZuUdUR/RoCTQ7md6KcFxM5KH98D+c9HUhuUJzhVaGU97BiFKiv8eDluPXdx5TqMVD56XJoMM3YJnkA+57O5Ac6/JnQA1XhieIMTxknC8swYRdI3Vwm0bSpA==",
+    "sub_plan": "Lifetime",
+    "sub-type": "ultimate",
+    "end_date": "2100-12-31 00:00:00",
+    "status": "approved",
+    "customer_channel_id": "1528914910233366649",
+    "license_message_id": "1528914914813673565"
+  }
 }
