@@ -34,5 +34,22 @@
     "trial_status": "",
     "trial_end_deadline": "",
     "trial_responded": ""
+  },
+  "802294479972991056": {
+    "user_name": "Ruppert",
+    "discord_user": "ruppert_x",
+    "discord_user_id": "802294479972991056",
+    "user_img": "https://cdn.discordapp.com/avatars/802294479972991056/ccd4996eddd307df1c5950a4963b4f8e.webp",
+    "discord_webhook_url": "https://discord.com/api/webhooks/1540145750963658763/tn_wQOhDW9TE5vyx-fjG_4jgGY41WHVIUsB7OgmwslxsklzK0wZi8NZnboCDG1l2lqXW",
+    "mac_address": "1gljnlzamtX3vwUp4Gok/iLrmcJhtafewH7Cu0A4ZzHJb42c1ws5daiMvx+8iHCSmmzlJreL87bjP/1S23Y9uPRRf/7DkZmL+cFb0xUxhDOllYB4q2dlRzq/TD6PomZk1dDyRQZv6sFkIgq0pYupmdU4d+02He5Dle3JpPd3bSo=",
+    "sub_plan": "Free Trial",
+    "sub-type": "Card limit",
+    "end_date": "2026-08-22 00:00:00",
+    "status": "approved",
+    "trial_expires_at": "2026-08-21T23:49:20.238Z",
+    "trial_status": "active",
+    "customer_channel_id": "1540145748727824485",
+    "trial_end_deadline": "2026-08-22T23:49:20.238Z",
+    "license_message_id": "1540145752800759809"
   }
 }
